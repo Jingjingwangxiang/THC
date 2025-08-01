@@ -1,4 +1,4 @@
-It supports the results we presented in our review paper submitted to Water Resources Research in July 2025 titled “A Comprehensive Review of Temperature Effects on Reaction Transport.”
+It supports the results we presented in our review paper submitted to Water Resources Research in August 2025 titled “A Comprehensive Review of Temperature Effects on Reaction Transport.”
 
 The underlying source code and models that produced the manuscript figures are summarized below:
 
