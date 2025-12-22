@@ -1,4 +1,4 @@
-It supports the results we presented in our review paper submitted to Water Resources Research in August 2025 titled “A Comprehensive Review of Temperature Effects on Reaction Transport.”
+It supports the results we presented in our review paper submitted to the Hydrogeology Journal in January 2026 titled “A discussion of temperature effects on reactive transport”.
 
 Software development platform: Microsoft Visual Studio 2022
 
