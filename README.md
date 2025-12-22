@@ -1,4 +1,4 @@
-It supports the results we presented in our review paper submitted to the Hydrogeology Journal in January 2026 titled “A discussion of temperature effects on reactive transport”.
+It supports the results we presented in our paper submitted to the Hydrogeology Journal in January 2026 titled “A discussion of temperature effects on reactive transport”.
 
 Software development platform: Microsoft Visual Studio 2022
 
