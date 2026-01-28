@@ -1,5 +1,9 @@
 ![License: MIT](https://img.shields.io/badge/license-MIT-green)
 
+Copyright (c) 2025 Jingjing Wang
+
+This dataset is licensed under the terms of the Creative Commons Attribution 4.0 International (CC BY 4.0) license. You are free to share and adapt this dataset, as long as you give appropriate credit and indicate if changes were made. See the LICENSE file for details.
+
 It supports the results we presented in our paper submitted to the Hydrogeology Journal in January 2026 titled “A discussion of temperature effects on reactive transport”.
 
 Software development platform: Microsoft Visual Studio 2022
