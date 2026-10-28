@@ -9,11 +9,11 @@ The above copyright notice and this permission notice shall be included in all c
 The software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
 
 # THC
-It supports the results we presented in our paper submitted to the Hydrogeology Journal in May 2026 titled “A discussion of temperature effects on reactive transport”.
+It supports the results of our paper published in the Hydrogeology Journal 2026 titled “A discussion of temperature effects on reactive transport”.
 
 Software development platform: Microsoft Visual Studio 2022
 
-Program language: object-oriented programming FORTRAN2003
+Programming language: object-oriented programming FORTRAN2003
 
 Compiler: Intel oneAPI 2022
 
@@ -25,4 +25,4 @@ SourceCode.rar contains the source code developed to simulate thermal retardatio
 
 The files named Model_.zip and Model5_.zip contain the input and output data for the results of thermal retardation and thermal convection effects on RT, respectively.
 
-Figures.zip contains the MATLAB codes that generate the figures.
+Figures.rar contains the MATLAB codes that generate the figures.
