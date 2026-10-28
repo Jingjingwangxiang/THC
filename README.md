@@ -21,7 +21,7 @@ Library: Intel Math Kernel Library (Intel® MKL).
 
 The underlying source code and models that produced the manuscript figures are summarized below:
 
-SourceCode.zip contains the source code developed to simulate thermal retardation and thermal convection effects on RT.
+SourceCode.rar contains the source code developed to simulate thermal retardation and thermal convection effects on RT.
 
 The files named Model_.zip and Model5_.zip contain the input and output data for the results of thermal retardation and thermal convection effects on RT, respectively.
 
